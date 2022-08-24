@@ -10,87 +10,87 @@ schedule:
     events:
       - name: Lab
         class: lab
-        start: 9:00 AM
-        end: 12:00 PM
-        tas: Jay
-      - name: Lab
-        class: lab
         start: 12:00 PM
         end: 3:00 PM
-        tas: Jay
+        tas: Emma
       - name: Lab
         class: lab
         start: 3:00 PM
         end: 6:00 PM
-        tas: Stella
+        tas: Han
+      - name: HW Party
+        class: hw-party
+        start: 6:00 PM
+        end: 8:00 PM
   - name: Tuesday
     events:
       - name: Lab
         class: lab
-        start: 12:00 PM
-        end: 3:00 PM
-        tas: Ron
+        start: 1:00 PM
+        end: 4:00 PM
+        tas: Han
       - name: Lecture
         class: lecture
-        start: 3:30 PM
-        end: 5:00 PM
+        start: 11:00 AM
+        end: 12:30 PM
   - name: Wednesday
     events: 
       - name: Lab
         class: lab
-        start: 9:00 AM
-        end: 12:00 PM
-        tas: Ritika
+        start: 8:00 AM
+        end: 11:00 AM
+        tas: Riddhi
       - name: Lab
         class: lab
-        start: 12:00 PM
-        end: 3:00 PM
-        tas: Stella
+        start: 11:00 AM
+        end: 2:00 PM
+        tas: Emma
       - name: Lab
         class: lab
-        start: 3:00 PM
-        end: 6:00 PM
-        tas: Tiffany
+        start: 2:00 PM
+        end: 5:00 PM
+        tas: Riddhi
+      - name: LOST section
+        class: section 
+        start: 5:00 PM
+        end: 7:00 PM
   - name: Thursday
     events:
       - name: Lab
         class: lab
-        start: 12:00 PM
-        end: 3:00 PM
+        start: 1:00 PM
+        end: 4:00 PM
         tas: Ron
       - name: Lecture
         class: lecture
-        start: 3:30 PM
-        end: 5:00 PM
+        start: 11:00 AM
+        end: 12:30 PM
       - name: Lab
         class: lab
-        start: 6:00 PM
-        end: 9:00 PM
-        tas: Kyoungtae
+        start: 4:00 PM
+        end: 7:00 PM
+        tas: Marius
+      - name: Discussion (Online)
+        class: section
+        start: 2:00 PM
+        end: 3:00 PM
   - name: Friday
     events:
       - name: Lab
         class: lab
         start: 9:00 AM
         end: 12:00 PM
-        tas: Ritika
-      - name: Discussion
-        class: section
+        tas: Han
+      - name: Lab
+        class: lab
         start: 12:00 PM
-        end: 1:00 PM
+        end: 3:00 PM
+        tas: Emma
       - name: Discussion
         class: section
-        start: 1:00 PM 
-        end: 2:00 PM
+        start: 2:00 PM 
+        end: 3:00 PM
       - name: Discussion
         class: section
         start: 3:00 PM 
         end: 4:00 PM
-      - name: HW Party
-        class: hw-party
-        start: 4:00 PM
-        end: 7:00 PM
-      - name: LOST section
-        class: section 
-        start: 7:00 PM
-        end: 9:00 PM
