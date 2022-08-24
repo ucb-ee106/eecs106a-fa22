@@ -3,12 +3,12 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Course website for EECS 106/206A Fall 2020
+    Course website for EECS 106/206A Fall 2022
 ---
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
 # EECS C106A/206A | Introduction to Robotics
 {: .mb-2 }
-Fall 2020
+Fall 2022
 {: .mb-0 .fs-6 .text-grey-dk-200 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
