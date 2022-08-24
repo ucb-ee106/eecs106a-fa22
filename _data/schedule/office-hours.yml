@@ -8,89 +8,39 @@ timeline: [
 schedule:
   - name: Monday
     events:
-      - name: Lab/Admin OH
-        class: laboh
-        start: 8:00 AM
-        end: 9:00 AM
-        tas: Stella
       - name: Content OH
         class: contentoh
-        start: 6:00 PM
-        end: 8:00 PM
-        tas: Isabella
+        start: 2:00 PM
+        end: 3:00 PM
+        tas: Professor Sastry
       
   - name: Tuesday
     events:
-      - name: Content OH
-        class: contentoh
-        start: 10:00 AM
+      - name: Lab/Admin OH
+        class: laboh
+        start: 9:00 AM
         end: 11:00 AM
-        tas: Professor Sastry
-      - name: Lab OH
-        class: laboh
-        start: 5:00 PM
-        end: 6:00 PM
-        tas: Ritika
-      - name: Content OH
-        class: contentoh
-        start: 6:00 PM
-        end: 7:30 PM
-        tas: Amay
-      - name: Lab OH
-        class: laboh
-        start: 8:00 PM
-        end: 9:00 PM
-        tas: Ron  
+        tas: Riddhi
       
   - name: Wednesday
     events:
-      - name: Lab/Admin OH
-        class: laboh
-        start: 8:00 AM
-        end: 9:00 AM
-        tas: Stella
-      - name: Lab OH
-        class: laboh
-        start: 6:00 PM
-        end: 7:00 PM
-        tas: Tiffany
-      - name: Lab OH
-        class: laboh
-        start: 7:00 PM
-        end: 9:00 PM
-        tas: Ron
+      - name: Content OH
+        class: contentoh
+        start: 11:00 AM
+        end: 12:00 PM
+        tas: Professor Sastry
       
   - name: Thursday
     events:
-      - name: Lab OH
+      - name: Lab/Admin OH
         class: laboh
-        start: 8:30 AM
-        end: 9:30 AM
-        tas: Jay
-      - name: Content OH
-        class: contentoh
-        start: 9:30 AM
+        start: 10:00 AM
         end: 11:00 AM
-        tas: Amay
-      - name: Lab OH
-        class: laboh
-        start: 11:00 AM
-        end: 12:00 PM
-        tas: Tiffany
-      - name: Lab OH
-        class: laboh
-        start: 5:00 PM
-        end: 6:00 PM
-        tas: Kyoungtae
+        tas: Riddhi
 
       
   - name: Friday
     events:
-      - name: Content OH
-        class: contentoh
-        start: 2:00 PM 
-        end: 3:00 PM
-        tas: Professor Sastry
       #- name: Content OH
       #  class: contentoh
       #  start: 7:00 PM
