@@ -1,6 +1,6 @@
 ---
 name: Sunay Poole
-role: Head Content TA
+role: Head TA
 email: sunaypoole@
 photo: assets/staff_pics/TA/sunay.jpg
 ---

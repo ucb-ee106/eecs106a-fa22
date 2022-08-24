@@ -1,8 +1,8 @@
 ---
 name: Riddhi Bagadiaa
-role: Head Admin, Head Lab TA
+role: Head TA
 email: riddhi_b@
 photo: assets/staff_pics/TA/riddhi.jpg
 ---
 
-Head TA - Lab
+Head TA - Lab, Admin
