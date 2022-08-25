@@ -1,9 +1,9 @@
 ---
 title: Week 13
 days:
-  - topic: Guest Lecture - Robert Peter Matthew
+  - topic: Guest Lecture
     date: 2020-11-24
-    description: <a href="https://youtu.be/Gg008tG4HeY">Video</a>  
+    description: Video
   - topic: No Class
     date: 2020-11-26
     description:  <br />  
