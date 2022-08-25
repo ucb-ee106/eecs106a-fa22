@@ -21,16 +21,16 @@ schedule:
       
   - name: Tuesday
     events:
-      - name: Lab/Admin OH
-        class: laboh
-        start: 5:00 PM
-        end: 7:00 PM
-        tas: Riddhi
       - name: Content OH
         class: contentoh
         start: 4:00 PM
         end: 6:00 PM
         tas: Massimiliano
+      - name: Lab/Admin OH
+        class: laboh
+        start: 5:00 PM
+        end: 7:00 PM
+        tas: Riddhi
       - name: Lab OH
         class: laboh
         start: 8:00 AM
