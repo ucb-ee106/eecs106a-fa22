@@ -9,4 +9,3 @@ days:
     description: Video <br /> Logistics Slides <br /> Lecture Slides
 ---
 - [Homework 0: Linear Algebra Review]
-- No discussion sections this week!
