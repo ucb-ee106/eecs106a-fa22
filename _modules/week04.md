@@ -2,10 +2,10 @@
 title: Week 4
 days:
   - topic: Inverse Kinematics
-    date: 2020-09-22
+    date: 2020-09-20
     description: Video <br /> Announcements Slides <br /> [Boardwork] <br /> Reading - MLS 3.3
   - topic: Inverse Kinematics (cont.)
-    date: 2020-09-24
+    date: 2020-09-22
     description: Video <br />  Reading - MLS 3.3
 ---
 

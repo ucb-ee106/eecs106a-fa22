@@ -2,10 +2,10 @@
 title: Week 9
 days:
   - topic: Lagrangian Dynamics
-    date: 2020-10-27
+    date: 2020-10-25
     description: Video <br />  Reading - MLS 4.3 <br /> Announcements
   - topic: Control of Robot Manipulators
-    date: 2020-10-29
+    date: 2020-10-27
     description: Video <br /> MLS Ch 5 Slides <br /> [Boardwork]
 ---
 

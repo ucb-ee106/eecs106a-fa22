@@ -2,10 +2,10 @@
 title: Week 1
 days:
   - topic: Rotations of Rigid Bodies
-    date: 2020-09-01
+    date: 2020-08-30
     description: Video <br />  Lecture Slides <br /> [Boardwork] <br /> Reading - MLS 2.1, 2.2
   - topic: Rigid Body Transformations in R^3
-    date: 2020-09-03
+    date: 2020-09-01
     description: Video <br />  [Boardwork] <br /> Reading - MLS 2.3
 
 ---

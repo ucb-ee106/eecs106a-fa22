@@ -2,10 +2,10 @@
 title: Week 11
 days:
   - topic: Control (cont.)
-    date: 2020-11-10
+    date: 2020-11-08
     description: Video <br /> [Boardwork]
   - topic: Motion Planning Methods
-    date: 2020-11-12
+    date: 2020-11-10
     description: Video  <br /> [Slides]
 ---
 

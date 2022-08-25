@@ -2,10 +2,10 @@
 title: Week 10
 days:
   - topic: Control of Robots (cont.)
-    date: 2020-11-03
+    date: 2020-11-01
     description: Video <br /> MLS Ch 5 Slides <br />  Reading
   - topic: Control (cont.)
-    date: 2020-11-05
+    date: 2020-11-03
     description: Video <br /> [Boardwork]  <br />  Reading
 ---
 
