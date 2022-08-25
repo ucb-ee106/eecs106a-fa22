@@ -6,7 +6,7 @@ days:
     description:
   - topic: Intro -  History of Robotics
     date: 2020-08-27
-    description: <a>Video</a> <br /> <a>Logistics Slides</a> <br /> <a>Lecture Slides</a>
+    description: Video <br /> Logistics Slides <br /> Lecture Slides
 ---
 - [Homework 0: Linear Algebra Review]
 - No discussion sections this week!
