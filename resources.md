@@ -18,6 +18,7 @@ description: >-
 ---
 ## Lab Resources
 
+- [Linear Algebra Review](assets/discussions/math_review.pdf)
 - [Python Intro](assets/labs/resources/python_intro.pdf)
 - [ROS Cheat Sheet](assets/labs/resources/ROS_cheat_sheet.pdf)
 - [Linux Intro](assets/labs/resources/linux_intro.pdf)
@@ -32,7 +33,6 @@ description: >-
 - [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) (another textbook that might be easier to understand than the course's official textbook)
 - [Modern Robotics: videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
 - [Discussion slides by Robert Peter Matthew, former 106A TA](http://robertpetermatthew.com/index.php/teaching/)
-- [Isabella's Review of Key Proofs](https://berkeley.zoom.us/rec/share/ULLrSmTDAEoSYEUV0gQRmpGsnmIGcrj-50_mj3TR_CBd9Gm9h5YoArG42g5VF1q2.e8rzLf6rP0jxJVmI?startTime=1600143227000) starts around 2:00 due to some technical details
 - [MLS Errata](https://www.cds.caltech.edu/~murray/books/MLS/index.html)
 - [Additional Velocities Notes from Isabella](/assets/lec/additional_velocity_notes.pdf)
 
