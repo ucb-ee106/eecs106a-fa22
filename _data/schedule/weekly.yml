@@ -60,7 +60,7 @@ schedule:
         class: lab
         start: 1:00 PM
         end: 4:00 PM
-        tas: Ron
+        tas: Marius
       - name: Lecture
         class: lecture
         start: 11:00 AM
