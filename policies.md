@@ -115,7 +115,7 @@ We understand that these policies are a bit nuanced,  and if you have questions,
 Discussion sections will be held on Thursday 2:00pm - 3:00pm (remote), Friday 2:00pm - 3:00pm, and Friday 3:00pm - 4:00pm. Attendance is recommended, but not mandatory.
 
 Friday sections are held in person in Cory 521.
-The Thursday 2-3pm section will always be hosted online and recorded. The Zoom link is forthcoming. Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. If privacy is a concern, please consider turning off your camera before speaking.
+The Thursday 2-3pm section will always be hosted online and recorded. You can find the Zoom link pinned on the Ed page. Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. If privacy is a concern, please consider turning off your camera before speaking.
 
 ## Lost and Overwhelmed Students’ Turnabout (LOST) Section
 
@@ -136,7 +136,7 @@ The instructors will hold weekly office hours to discuss lecture content, homewo
 
 If you are unable to attend office hours, please utilize the Edstem for this class. We cannot guarantee response time from instructors, but we highly recommend helping your classmates out as you can! 
 
-Please take all homework, discussion, and lecture questions to Discussion TAs. All lab questions should be discussed with Lab TAs. Any administrative questions should be directed to Stella. If you do not follow these guidelines, there are no guarantees your questions will be answered.
+Please take all homework, discussion, and lecture questions to Discussion TAs. All lab questions should be discussed with Lab TAs. Any administrative questions should be directed to Riddhi. If you do not follow these guidelines, there are no guarantees your questions will be answered.
 
 ## A Note on Late Work
 
