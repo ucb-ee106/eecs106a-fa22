@@ -11,5 +11,5 @@ days:
 ---
 - Lab 1: Introduction to ROS and Gazebo [Video] [Lab Doc]
 - [Homework 1: Rotations and Reference Frames]
-- Discussion 1: Rotations [Worksheet] Video [Solutions]
+- Discussion 1: Rotations [Worksheet] [Video] [Solutions]
 

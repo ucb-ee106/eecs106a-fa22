@@ -134,7 +134,7 @@ All students must complete a final project. Failure to complete a final project 
 
 The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students’ reasoning in related problems.
 
-If you are unable to attend office hours, please utilize the Edstem for this class. We cannot guarantee response time from instructors, but we highly recommend helping your classmates out as you can! 
+If you are unable to attend office hours, please utilize the Edstem for this class. We cannot guar     antee response time from instructors, but we highly recommend helping your classmates out as you can! 
 
 Please take all homework, discussion, and lecture questions to Discussion TAs. All lab questions should be discussed with Lab TAs. Any administrative questions should be directed to Riddhi. If you do not follow these guidelines, there are no guarantees your questions will be answered.
 
