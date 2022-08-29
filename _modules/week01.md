@@ -9,7 +9,7 @@ days:
     description: Video <br />  [Boardwork] <br /> Reading - MLS 2.3
 
 ---
-- Lab 1: Introduction to ROS and Gazebo <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab1"> Starter Code </a> [Lab Doc](../assets/labs/lab1)
+- Lab 1: Introduction to ROS and Gazebo <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab1"> Starter Code </a> [Lab Doc](../assets/labs/lab1.pdf)
 - [Homework 1: Rotations and Reference Frames]
 - Discussion 1: Rotations [Worksheet] [Video] [Solutions]
 
