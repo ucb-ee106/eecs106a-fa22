@@ -23,6 +23,11 @@ schedule:
     events:
       - name: Content OH
         class: contentoh
+        start: 10:00 AM
+        end: 11:00 AM
+        tas: Sunay
+      - name: Content OH
+        class: contentoh
         start: 4:00 PM
         end: 6:00 PM
         tas: Massimiliano
@@ -57,6 +62,11 @@ schedule:
         start: 8:00 AM
         end: 9:30 AM
         tas: Han
+      - name: Content OH
+        class: contentoh
+        start: 10:00 AM
+        end: 11:00 AM
+        tas: Sunay
 
       
   - name: Friday
