@@ -1,7 +1,7 @@
 ---
 name: Koushil Sreenath
 role: Instructor
-email: koushils@berkeley.edu
+email: koushils@
 photo: assets/staff_pics/koushil.jpg
 ---
 Instructor

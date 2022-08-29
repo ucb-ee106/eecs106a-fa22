@@ -1,7 +1,7 @@
 ---
 name: Shankar Sastry
 role: Instructor
-email: sastry@eecs.
+email: sastry@coe.
 photo: assets/staff_pics/sastry.jpg
 ---
 Instructor
