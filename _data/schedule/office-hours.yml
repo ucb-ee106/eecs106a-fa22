@@ -13,11 +13,19 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         tas: Professor Sastry
+        location: Cory 333
       - name: Lab OH
         class: laboh
         start: 10:30 AM
         end: 12:00 PM
         tas: Emma
+        location: Cory 105
+      - name: Content OH
+        class: contentoh
+        start: 1:00 PM
+        end: 2:00 PM
+        tas: Tarun
+        location: Cory 529
       
   - name: Tuesday
     events:
@@ -26,21 +34,25 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         tas: Sunay
+        location: Cory 105
       - name: Content OH
         class: contentoh
         start: 4:00 PM
         end: 6:00 PM
         tas: Massimiliano
+        location: Cory 105
       - name: Lab/Admin OH
         class: laboh
-        start: 5:00 PM
-        end: 7:00 PM
+        start: 6:00 PM
+        end: 8:00 PM
         tas: Riddhi
+        location: Cory 105
       - name: Lab OH
         class: laboh
         start: 8:00 AM
         end: 9:30 AM
         tas: Han
+        location: Cory 105
       
   - name: Wednesday
     events:
@@ -49,11 +61,7 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         tas: Professor Sastry
-      - name: Content OH
-        class: contentoh
-        start: 1:00 PM
-        end: 3:00 PM
-        tas: Tarun
+        location: Cory 333
       
   - name: Thursday
     events:
@@ -62,11 +70,19 @@ schedule:
         start: 8:00 AM
         end: 9:30 AM
         tas: Han
+        location: Cory 105
       - name: Content OH
         class: contentoh
         start: 10:00 AM
         end: 11:00 AM
         tas: Sunay
+        location: Cory 105
+      - name: Content OH
+        class: contentoh
+        start: 3:00 PM
+        end: 4:00 PM
+        tas: Tarun
+        location: Cory 529
 
       
   - name: Friday
