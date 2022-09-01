@@ -35,6 +35,7 @@ description: >-
 - [Discussion slides by Robert Peter Matthew, former 106A TA](http://robertpetermatthew.com/index.php/teaching/)
 - [MLS Errata](https://www.cds.caltech.edu/~murray/books/MLS/index.html)
 - [Additional Velocities Notes from Isabella](/assets/lec/additional_velocity_notes.pdf)
+- [Notes from Max: Rotations and Rigid Body Motion](/assets/lec/Rigid_Body_Rotations.pdf)
 
 ## Midterm Resources
 Coming soon! 

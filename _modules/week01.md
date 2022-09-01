@@ -11,5 +11,5 @@ days:
 ---
 - Lab 1: Introduction to ROS and Gazebo <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab1"> Starter Code </a> [Lab Doc](../assets/labs/lab1.pdf)
 - [Homework 1: Rotations and Reference Frames](../assets/hw/hw1.zip)
-- Discussion 1: Rotations [Worksheet] [Video] [Solutions]
+- Discussion 1: Rotations [Worksheet](../assets/discussions/D1___Rotations.pdf) [Video] [Solutions]
 
