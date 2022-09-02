@@ -107,3 +107,8 @@ schedule:
         class: section
         start: 3:00 PM 
         end: 4:00 PM
+      - name: HW Party
+        class: hw-party
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Cory 521
