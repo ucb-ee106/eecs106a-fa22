@@ -1,7 +1,7 @@
 ---
-name: Zoltan Williamson
+name: Valmik Prabhu
 role: Reader
-email: zoltantakahiro@
+email: valmik@
 photo: assets/staff_pics/reader/zoltan.jpg
 ---
 

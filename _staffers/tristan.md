@@ -1,7 +1,7 @@
 ---
-name: Zoltan Williamson
+name: Tristan Schwab
 role: Reader
-email: zoltantakahiro@
+email: tristanschwab@
 photo: assets/staff_pics/reader/zoltan.jpg
 ---
 
