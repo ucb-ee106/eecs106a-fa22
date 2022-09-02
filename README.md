@@ -1,4 +1,4 @@
-# Course website for EE 106/206a for Fall 2020
+# Course website for EE 106/206a for Fall 2022
 
-Website: https://ucb-ee106.github.io/106a-fa20site/
-# 106a-fa20site
+Website: https://ucb-ee106.github.io/eecs106a-fa22/
+# 106a-fa22site
