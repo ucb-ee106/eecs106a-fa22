@@ -13,15 +13,18 @@ schedule:
         start: 12:00 PM
         end: 3:00 PM
         tas: Emma
+        location: Cory 105
       - name: Lab
         class: lab
         start: 3:00 PM
         end: 6:00 PM
         tas: Han
+        location: Cory 105
       - name: HW Party
         class: hw-party
         start: 6:00 PM
         end: 8:00 PM
+        location: Cory 521
   - name: Tuesday
     events:
       - name: Lab
@@ -29,6 +32,7 @@ schedule:
         start: 1:00 PM
         end: 4:00 PM
         tas: Han
+        location: Cory 105
       - name: Lecture
         class: lecture
         start: 11:00 AM
@@ -40,16 +44,19 @@ schedule:
         start: 8:00 AM
         end: 11:00 AM
         tas: Riddhi
+        location: Cory 105
       - name: Lab
         class: lab
         start: 11:00 AM
         end: 2:00 PM
         tas: Emma
+        location: Cory 105
       - name: Lab
         class: lab
         start: 2:00 PM
         end: 5:00 PM
         tas: Riddhi
+        location: Cory 105
       - name: LOST section
         class: section 
         start: 5:00 PM
@@ -61,19 +68,23 @@ schedule:
         start: 1:00 PM
         end: 4:00 PM
         tas: Marius
+        location: Cory 105
       - name: Lecture
         class: lecture
         start: 11:00 AM
         end: 12:30 PM
+        location: Cory 105
       - name: Lab
         class: lab
         start: 4:00 PM
         end: 7:00 PM
         tas: Marius
-      - name: Discussion (Online)
+        location: Cory 105
+      - name: Discussion
         class: section
         start: 2:00 PM
         end: 3:00 PM
+        location: Online
   - name: Friday
     events:
       - name: Lab
@@ -81,11 +92,13 @@ schedule:
         start: 9:00 AM
         end: 12:00 PM
         tas: Han
+        location: Cory 105
       - name: Lab
         class: lab
         start: 12:00 PM
         end: 3:00 PM
         tas: Emma
+        location: Cory 105
       - name: Discussion
         class: section
         start: 2:00 PM 
