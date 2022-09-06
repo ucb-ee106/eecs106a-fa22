@@ -10,7 +10,7 @@ days:
   
 ---
 
-- Lab 2: Writing Publisher/Subscriber Nodes in ROS [Video]
+- Lab 2: Writing Publisher/Subscriber Nodes in ROS <a href="https://github.com/ucb-ee106/106a-fa22-labs-starter/tree/main/Lab2"> Starter Code </a> [Lab Doc](../assets/labs/lab2.pdf)
 - [Homework 2: Exponential Coordinates]
 - Discussion 2: Exponential Coordinates [Worksheet] [Video] [Boardwork] [Solutions]
 
