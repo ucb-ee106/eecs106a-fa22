@@ -25,7 +25,7 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         tas: Tarun
-        location: Cory 529
+        location: Cory 284
       
   - name: Tuesday
     events:
@@ -87,7 +87,7 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         tas: Tarun
-        location: Cory 529
+        location: Cory 284
 
       
   - name: Friday

@@ -84,7 +84,7 @@ schedule:
         class: section
         start: 2:00 PM
         end: 3:00 PM
-        location: Online
+        location: Cory 400
   - name: Friday
     events:
       - name: Lab
