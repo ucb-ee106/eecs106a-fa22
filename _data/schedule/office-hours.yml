@@ -14,12 +14,12 @@ schedule:
         end: 3:00 PM
         tas: Professor Sastry
         location: Cory 333
-      - name: Lab OH
-        class: laboh
+      - name: Lab OH / Content OH
+        class: mixedoh
         start: 11:00 AM
         end: 12:00 PM
-        tas: Emma
-        location: Cory 105
+        tas: Emma / Professor Sreenath
+        location: Cory 105/ Etcheverry 5132
       - name: Content OH
         class: contentoh
         start: 1:00 PM
@@ -29,11 +29,11 @@ schedule:
       
   - name: Tuesday
     events:
-      - name: Content OH
-        class: contentoh
+      - name: Lab OH / Content OH
+        class: mixedoh
         start: 10:00 AM
         end: 11:00 AM
-        tas: Sunay
+        tas: Emma / Sunay
         location: Cory 105
       - name: Content OH
         class: contentoh
@@ -53,6 +53,12 @@ schedule:
         end: 9:30 AM
         tas: Han
         location: Cory 105
+      - name: Content OH
+        class: contentoh
+        start: 12:30 PM
+        end: 13:30 PM
+        tas: Professor Sreenath
+        location: Etcheverry 5132
       
   - name: Wednesday
     events:
@@ -71,11 +77,23 @@ schedule:
         end: 9:30 AM
         tas: Han
         location: Cory 105
+      - name: Lab OH
+        class: laboh
+        start: 9:30 AM
+        end: 10:00 AM
+        tas: Marius
+        location: Cory 105
       - name: Lab OH / Content OH
         class: mixedoh
-        start: 9:30 AM
+        start: 10:00 AM
         end: 11:00 AM
-        tas: Marius / Sunay (10-11 am)
+        tas: Marius / Sunay
+        location: Cory 105
+      - name: Lab OH
+        class: laboh
+        start: 7:00 PM
+        end: 8:00 PM
+        tas: Emma
         location: Cory 105
       # - name: Content OH
       #   class: contentoh
