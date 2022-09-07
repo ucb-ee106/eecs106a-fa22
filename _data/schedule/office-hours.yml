@@ -71,17 +71,17 @@ schedule:
         end: 9:30 AM
         tas: Han
         location: Cory 105
-      - name: Lab OH
+      - name: Lab OH / Content OH
         class: laboh
         start: 9:30 AM
         end: 11:00 AM
-        tas: Marius
-      - name: Content OH
-        class: contentoh
-        start: 10:00 AM
-        end: 11:00 AM
-        tas: Sunay
+        tas: Marius / Sunay (10-11 am)
         location: Cory 105
+      # - name: Content OH
+      #   class: contentoh
+      #   start: 10:00 AM
+      #   end: 11:00 AM
+      #   tas: Sunay
       - name: Content OH
         class: contentoh
         start: 3:00 PM
