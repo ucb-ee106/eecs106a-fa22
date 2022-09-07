@@ -56,7 +56,7 @@ schedule:
       - name: Content OH
         class: contentoh
         start: 12:30 PM
-        end: 13:30 PM
+        end: 1:30 PM
         tas: Professor Sreenath
         location: Etcheverry 5132
       
