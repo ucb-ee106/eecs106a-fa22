@@ -72,7 +72,7 @@ schedule:
         tas: Han
         location: Cory 105
       - name: Lab OH / Content OH
-        class: laboh
+        class: mixedoh
         start: 9:30 AM
         end: 11:00 AM
         tas: Marius / Sunay (10-11 am)
