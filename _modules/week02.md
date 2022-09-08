@@ -6,7 +6,7 @@ days:
     description: <br /> [Lecture Slides](../assets/lec/L4-RigidMotions.pdf) <br />  [Boardwork](../assets/lec/L4-RigidMotions-annotated.pdf) <br />Reading - MLS 3.2
   - topic: Forward Kinematics of Robots (cont.)
     date: 2020-09-8
-    description: <br /> [Lecture Slides](../assets/lec/L5-TwistsandScrews.pdf) <br /> [Boardwork] <br /> Reading - MLS 3.2
+    description: <br /> [Lecture Slides](../assets/lec/L5-TwistsandScrews.pdf) <br /> [Boardwork](../assets/lec/L5-TwistsandScrews-annotated.pdf) <br /> Reading - MLS 3.2
   
 ---
 
