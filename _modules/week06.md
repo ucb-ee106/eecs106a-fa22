@@ -1,12 +1,12 @@
 ---
 title: Week 6
 days:
-  - topic: Vision - Structure from Motion
+  - topic: Vision - Image Primitives and Correspondence
     date: 2020-10-04
-    description: Video <br /> Lecture Slides, Ch 3 <br /> Lecture Slides, Ch 4 <br /> Logistics Slides <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapters 3, 4
-  - topic: Finishing Vision & Introducing Velocities - Twists and Screws
+    description: <br /> Lecture Slides <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapters 3, 4
+  - topic: Vision - Two View Geometry
     date: 2020-10-06
-    description: Video <br /> [Amay's Slides] <br /> Reading
+    description: <br /> Lecture Slides <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> 
 ---
 
 - Lab 5: Inverse Kinematics and Path Planning [Lab Doc] Video

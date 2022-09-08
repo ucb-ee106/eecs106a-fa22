@@ -1,12 +1,12 @@
 ---
 title: Week 9
 days:
-  - topic: Lagrangian Dynamics
+  - topic: Dynamics of Robots, Lagrangian Dynamics
     date: 2020-10-25
-    description: Video <br />  Reading - MLS 4.3 <br /> Announcements
+    description: <br /> Lecture Slides <br /> Boardwork <br /> Reading - MLS 4.2
   - topic: Control of Robot Manipulators
     date: 2020-10-27
-    description: Video <br /> MLS Ch 5 Slides <br /> [Boardwork]
+    description: <br /> Lecture Slides <br /> Boardwork
 ---
 
 - Lab 7: Multiview Geometry and Feature Tracking [Lab Doc] Video
