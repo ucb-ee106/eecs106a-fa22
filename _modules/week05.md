@@ -3,10 +3,10 @@ title: Week 5
 days:
   - topic: Vision - Image Formation and Features
     date: 2020-09-27
-    description: Video <br />  [Boardwork]
+    description: <br/> Lecture Slides <br /> [Boardwork] <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapter 1, Chapter 2
   - topic: Midterm
     date: 2020-09-29
-    description: Video <br />  Lecture Slides, Ch 1 <br /> Lecture Slides, Ch 2 <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapter 1, Chapter 2
+    description:
 ---
 
 - **Midterm I 09/29 in class**

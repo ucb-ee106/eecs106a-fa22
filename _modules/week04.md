@@ -1,12 +1,12 @@
 ---
 title: Week 4
 days:
-  - topic: Inverse Kinematics
+  - topic: Inverse Kinematics(cont.)
     date: 2020-09-20
-    description: Video <br /> Announcements Slides <br /> [Boardwork] <br /> Reading - MLS 3.3
-  - topic: Inverse Kinematics (cont.)
+    description: <br /> Lecture Slides <br /> [Boardwork] <br /> Reading - MLS 3.3
+  - topic: Inverse Kinematics - Eamples + Midterm Review
     date: 2020-09-22
-    description: Video <br />  Reading - MLS 3.3
+    description: <br /> Midterm Review Slides <br /> Lecture Slides <br /> [Boardwork] <br />  Reading - MLS 3.3
 ---
 
 - Lab 4: Introduction to Mobile Robotics [Lab Doc] [Video]

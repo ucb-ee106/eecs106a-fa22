@@ -3,10 +3,10 @@ title: Week 3
 days:
   - topic: Forward Kinematics - Examples
     date: 2020-09-13
-    description: Video <br /> Logistics Slides <br /> [Boardwork] <br />  Reading - MLS 3.2
-  - topic: Rigid Body Tranformations, Forward Kinematics, Inverse Kinematics
+    description: <br /> Lecture Slides <br /> [Boardwork] <br />  Reading - MLS 3.2
+  - topic: Inverse Kinematics
     date: 2020-09-15
-    description: Video <br /> [Boardwork]  <br /> Reading - MLS 3.2
+    description: <br /> Lecture Slides <br /> [Boardwork]  <br /> Reading - MLS 3.2
 
 ---
 
