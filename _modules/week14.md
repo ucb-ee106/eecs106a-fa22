@@ -1,12 +1,12 @@
 ---
 title: Week 14
 days:
-  - topic: Special Topics Lecture - Future of Robotics
+  - topic: Miscellaneous Topics III
     date: 2020-11-29
-    description: Video <br />  
-  - topic: Guest Lecture
+    description: 
+  - topic: Miscellaneous Topics IV
     date: 2020-12-01
-    description: Video <br />  
+    description: <br />  
 ---
 
 

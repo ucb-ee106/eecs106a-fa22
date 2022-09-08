@@ -3,10 +3,10 @@ title: Week 12
 days:
   - topic: Midterm II
     date: 2020-11-15
-    description: Video
-  - topic: Case Study in Design - Telesurgery
+    description:
+  - topic: Miscellaneous Topics I
     date: 2020-11-17
-    description: Video <br />  Slides <br /> [Laparoscopic Telesurgical Workstation] <br /> [Control of a Telesurgical Workstation]
+    description:
 ---
 
 - **Midterm II on 11/15 in class**
