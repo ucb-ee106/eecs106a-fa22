@@ -112,10 +112,10 @@ We understand that these policies are a bit nuanced,  and if you have questions,
 **Please do not make your lab respositories public, even after you finish the course. We're doing our best to uphold academic honesty!**
 
 ## Discussions
-Discussion sections will be held on Thursday 2:00pm - 3:00pm (remote), Friday 2:00pm - 3:00pm, and Friday 3:00pm - 4:00pm. Attendance is recommended, but not mandatory.
+Discussion sections will be held on Thursday 2:00pm - 3:00pm (Cory 400), Friday 2:00pm - 3:00pm (Cory 521), and Friday 3:00pm - 4:00pm (Cory 521). Attendance is recommended, but not mandatory.
 
 Friday sections are held in person in Cory 521.
-The Thursday 2-3pm section will always be hosted online and recorded. You can find the Zoom link pinned on the Ed page. Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. If privacy is a concern, please consider turning off your camera before speaking.
+The Thursday 2-3pm section will be held in person in Cory 400 and recorded. Because discussion section is recorded, please note that if you ask a question, you will be recorded as well. If privacy is a concern, please consider turning off your camera before speaking.
 
 ## Lost and Overwhelmed Students’ Turnabout (LOST) Section
 
