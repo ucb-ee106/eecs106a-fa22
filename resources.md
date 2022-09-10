@@ -31,6 +31,7 @@ description: >-
 ## Lecture Supplements 
 
 - [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) (another textbook that might be easier to understand than the course's official textbook)
+- [JupyterBook Course Notes](https://ucb-ee106.github.io/ee106a_jupyterbook/intro.html)
 - [Modern Robotics: videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
 - [Discussion slides by Robert Peter Matthew, former 106A TA](http://robertpetermatthew.com/index.php/teaching/)
 - [MLS Errata](https://www.cds.caltech.edu/~murray/books/MLS/index.html)
