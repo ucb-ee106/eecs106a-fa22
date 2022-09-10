@@ -27,6 +27,8 @@ search_enabled: true
 permalink: pretty
 nav_links:
   Other:
+    JupyterBook:
+      - 'https://ucb-ee106.github.io/ee106a_jupyterbook/intro.html'
     Gradescope:
       - 'https://gradescope.com'
     EdStem:
