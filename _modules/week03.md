@@ -12,7 +12,7 @@ days:
 
 - Lab 3: Forward Kinematics/Coordinate Transforms [Prelab] [Lab Doc](../assets/labs/lab3.pdf)
 - Lab 4: [Lab Doc](../assets/labs/lab4.pdf)
-- [Homework 3: Forward Kinematics]
-- Discussion 3: Forward Kinematics [Worksheet] Video [Solutions]
+- [Homework 3: Forward Kinematics](../assets/hw/hw3.zip)
+- Discussion 3: Forward Kinematics [Worksheet](../assets/discussions/D3___Forward_Kinematics.pdf) Video [Solutions]
 - LOST Section 1: Rigid body transformation; Twist; Exponential Coordinates; Screw [Slides] Video [Solutions]
 - [Potential Final Project Ideas] You can pitch your own ideas as well!
