@@ -61,6 +61,7 @@ schedule:
         class: section 
         start: 5:00 PM
         end: 7:00 PM
+        location: Cory 212
   - name: Thursday
     events:
       - name: Lab
