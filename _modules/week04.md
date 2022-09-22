@@ -10,7 +10,7 @@ days:
 ---
 
 - Lab 4: Introduction to Mobile Robotics [Lab Doc] [Video]
-- [Homework 4: Inverse Kinematics]
+- [Homework 4: Inverse Kinematics](../assets/hw/hw4_assignment.pdf)
 - Discussion 4: Inverse Kinematics [Worksheet] Video [Boardwork] [Solutions]
 - LOST Section 2: Forward Kinematics [Slides] Video
 - Practice Midterm I [Exam] [Solutions]
