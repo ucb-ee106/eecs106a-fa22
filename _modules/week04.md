@@ -13,5 +13,5 @@ days:
 - [Homework 4: Inverse Kinematics](../assets/hw/hw4_assignment.pdf)
 - Discussion 4: Inverse Kinematics [Worksheet](../assets/discussions/D4.pdf) Video [Boardwork] [Solutions]
 - LOST Section 2: Forward Kinematics [Slides] Video
-- Practice Midterm I [Exam](../mt/practice_midterm1_assignment.pdf) [Solutions](../mt/practice_midterm1_solution.pdf)
+- Practice Midterm I [Exam](../assets/mt/practice_midterm1_assignment.pdf) [Solutions](../assets/mt/practice_midterm1_solution.pdf)
 
