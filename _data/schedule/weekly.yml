@@ -37,6 +37,7 @@ schedule:
         class: lecture
         start: 11:00 AM
         end: 12:30 PM
+        location: Lewis 100
   - name: Wednesday
     events: 
       - name: Lab
@@ -74,7 +75,7 @@ schedule:
         class: lecture
         start: 11:00 AM
         end: 12:30 PM
-        location: Cory 105
+        location: Lewis 100
       - name: Lab
         class: lab
         start: 4:00 PM
@@ -104,10 +105,12 @@ schedule:
         class: section
         start: 2:00 PM 
         end: 3:00 PM
+        location: Cory 521
       - name: Discussion
         class: section
         start: 3:00 PM 
         end: 4:00 PM
+        location: Cory 521
       - name: HW Party
         class: hw-party
         start: 4:00 PM
