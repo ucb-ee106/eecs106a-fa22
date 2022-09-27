@@ -4,7 +4,7 @@ days:
   - topic: Inverse Kinematics(cont.)
     date: 2020-09-20
     description: <br /> Lecture Slides <br /> [Boardwork] <br /> Reading - MLS 3.3
-  - topic: Inverse Kinematics - Eamples + Midterm Review
+  - topic: Inverse Kinematics - Examples + Midterm Review
     date: 2020-09-22
     description: <br /> [Midterm Review Slides](../assets/mt/Midterm-1-Review-Session.pdf) <br /> Lecture Slides <br /> [Boardwork] <br />  Reading - MLS 3.3
 ---

@@ -3,10 +3,10 @@ title: Week 6
 days:
   - topic: Vision - Image Primitives and Correspondence
     date: 2020-10-04
-    description: <br /> Lecture Slides <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapters 3, 4
+    description: <br /> [Lecture Slides](../assets/lec/CV-lec2.pdf) <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> Chapters 3, 4
   - topic: Vision - Two View Geometry
     date: 2020-10-06
-    description: <br /> Lecture Slides <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> 
+    description: <br /> [Lecture Slides](../assets/lec/CV-lec3.pdf) <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> 
 ---
 
 - Lab 5: Inverse Kinematics and Path Planning [Lab Doc] Video
