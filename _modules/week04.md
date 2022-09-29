@@ -6,7 +6,7 @@ days:
     description: <br /> Lecture Slides <br /> [Boardwork] <br /> Reading - MLS 3.3
   - topic: Inverse Kinematics - Examples + Midterm Review
     date: 2020-09-22
-    description: <br /> [Midterm Review Slides](../assets/mt/Midterm-1-Review-Session.pdf) <br /> Lecture Slides <br /> [Boardwork] <br />  Reading - MLS 3.3
+    description: <br /> [Midterm Review Slides](../assets/mt/Midterm-1-Review-Session.pdf) <br /> [Lab Review Slides](https://docs.google.com/presentation/d/1aBDWyhVeOQ8-oeZc3dh3Xw1zBMAhVIET_EmXYduD5z0/edit#slide=id.g15d020c5255_0_679) <br /> Lecture Slides <br /> [Boardwork] <br />  Reading - MLS 3.3
 ---
 
 - Lab 4: Introduction to Mobile Robotics [Lab Doc] [Video]
