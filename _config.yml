@@ -33,6 +33,8 @@ nav_links:
       - 'https://gradescope.com'
     EdStem:
       - 'https://edstem.org/us/dashboard'
+    Textbook:
+      - './assets/MLS.pdf'
 # aux_links:
 #   'Kevin Lin':
 #     - 'https://kevinl.info'
