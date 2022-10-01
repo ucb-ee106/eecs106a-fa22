@@ -34,7 +34,7 @@ nav_links:
     EdStem:
       - 'https://edstem.org/us/dashboard'
     Textbook:
-      - './assets/MLS.pdf'
+      - 'https://ucb-ee106.github.io/eecs106a-fa22/assets/MLS.pdf'
 # aux_links:
 #   'Kevin Lin':
 #     - 'https://kevinl.info'
