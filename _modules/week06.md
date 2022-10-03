@@ -9,7 +9,8 @@ days:
     description: <br /> [Lecture Slides](../assets/lec/CV-lec3.pdf) <br /> Reading <a href = "https://link.springer.com/book/10.1007/978-0-387-21779-6">Textbook</a> 
 ---
 
-- Lab 5: Inverse Kinematics and Path Planning [Lab Doc] Video
+- Lab 5: Inverse Kinematics and Path Planning [Lab Doc](../assets/labs/lab5.pdf)
+- Lab 6: Vision [Lab Doc](../assets/labs/lab6.pdf)
 - [Homework 5: Vision]
 - Discussion 6: Vision Video[Boardwork]
 
