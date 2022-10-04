@@ -42,9 +42,7 @@ description: >-
 Coming soon! 
 
 ## Final Project Resources
-- [Fa 20:Project Guidelines](/assets/proj/fp_guidelines_updated.pdf)
-- [Fa 20: Potential Project Ideas](https://docs.google.com/document/d/1cTUckJ7WCwtsTk1lFzlJ5m44x-0wfgp3tp_qnoWOsmY/edit?usp=sharing)
-- [Fa 20: Presentation & Website Instructions](/assets/proj/final_project_presentation-demo-report_instructions.pdf)
+- [Fa 22:Project Guidelines](/assets/proj/_EECS_106A_Fa22__Final_Project_Guidelines.pdf)
 
 - [Proposal Template](assets/proj/project_proposal_template.tex)
 
