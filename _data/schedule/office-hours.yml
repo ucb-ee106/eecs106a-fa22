@@ -68,12 +68,6 @@ schedule:
         end: 12:00 PM
         tas: Professor Sastry
         location: Cory 333
-      - name: Content OH
-        class: contentoh
-        start: 12:30 PM
-        end: 1:30 PM
-        tas: Tarun
-        location: Cory 299
       
   - name: Thursday
     events:
@@ -106,7 +100,12 @@ schedule:
       #   start: 10:00 AM
       #   end: 11:00 AM
       #   tas: Sunay
-      
+      - name: Content OH
+        class: contentoh
+        start: 3:00 PM
+        end: 4:00 PM
+        tas: Tarun
+        location: Soda 373
 
       
   - name: Friday
@@ -117,5 +116,3 @@ schedule:
       #  end: 9:00 PM
       #  tas: Donggun
       
-  
-
