@@ -12,6 +12,6 @@ days:
 - Lab 5: Inverse Kinematics and Path Planning [Lab Doc](../assets/labs/lab5.pdf)
 - Lab 6: Vision [Lab Doc](../assets/labs/lab6.pdf)
 - [Homework 5: Vision](../assets/hw/hw5.zip)
-- Discussion 6: Vision [Worksheet](../assets/discussions/D6__Computer_Vision.pdf) [Video] [Boardwork] [Solutions]
+- Discussion 6: Vision [Worksheet](../assets/discussions/D6__Computer_Vision.pdf) [Video] [Boardwork](../assets/discussions/D6__Computer_Vision_boardwork.pdf) [Solutions](../assets/discussions/D6__Computer_Vision_sol.pdf)
 
 
