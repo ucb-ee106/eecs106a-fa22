@@ -10,7 +10,7 @@ days:
 ---
 
 - **Midterm I 09/29 in class**
-- LOST Section 3: Inverse Kinematics [Slides] [Solutions] Video
+- LOST Section 3: Inverse Kinematics [Notes](../assets/lost/LostInvKinematics.pdf) [Video](https://youtu.be/OvxJqM0wSTA)
 - Lab Buffer Week
 - No new homework this week
 - Discussion 5: Project Ideation [Project Guidelines] Intro slides Link to Gather Video

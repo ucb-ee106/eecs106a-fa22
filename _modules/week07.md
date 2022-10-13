@@ -12,4 +12,5 @@ days:
 - Lab 6: Computer Vision [Lab Doc] Video
 - [Homework 6: Velocities]
 - Discussion 7: Velocities [Worksheet] Video [Solutions]
+- LOST Section 4: Computer Vision [Notes](../assets/lost/LOST_Computer_Vision.pdf) [Video](https://youtu.be/bhM2Xad7NKQ)
 - [Additional Velocities Notes from Isabella]
