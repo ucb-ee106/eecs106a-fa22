@@ -11,6 +11,6 @@ days:
 
 - Lab 6: Computer Vision [Lab Doc] Video
 - [Homework 6: Velocities](../assets/hw/hw6_assignment.pdf)
-- Discussion 7: Velocities [Worksheet](../assets/discussions/D7___Velocities_and_Adjoints.pdf) Video [Solutions]
+- Discussion 7: Velocities [Worksheet](../assets/discussions/D7___Velocities_and_Adjoints.pdf) <a href="D7___Velocities_and_Adjoints_sol">Video</a> [Solutions](../assets/discussions/D7___Velocities_and_Adjoints_sol.pdf)
 - LOST Section 4: Computer Vision [Notes](../assets/lost/LOST_Computer_Vision.pdf) [Video](https://youtu.be/bhM2Xad7NKQ)
 - [Additional Velocities Notes from Isabella]
