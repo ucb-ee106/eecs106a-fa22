@@ -11,6 +11,6 @@ days:
 
 - Lab Buffer Week; Project Proposal Feedback instead
 - [Homework 7: Jacobians & Singularities]
-- Discussion 8: Jacobians [Worksheet] Video [Solutions]
+- Discussion 8: Jacobians [Worksheet](../assets/discussions/D8__Jacobians.pdf) Video [Solutions]
 - LOST Section 4: Velocities and Twists [Slides] Video [Solutions]
 
