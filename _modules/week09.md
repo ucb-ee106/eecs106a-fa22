@@ -12,6 +12,6 @@ days:
 - Lab 7: Multiview Geometry and Feature Tracking [Lab Doc] Video
 - [Homework 8: Dynamics](../assets/hw/hw8.zip) 
   - [PDF](../assets/hw/hw8_assignment.pdf)
-- Discussion 9: Dynamics [Worksheet](../assets/discussions/D9.pdf) [Boardwork] [Solutions](../assets/discussions/D9-sol.pdf) Video
+- Discussion 9: Dynamics [Worksheet](../assets/discussions/D9.pdf) [Boardwork](../assets/discussions/disc_9_boardwork.pdf) [Solutions](../assets/discussions/D9-sol.pdf) <a href="https://youtu.be/gISyRQzipSQ">Video</a>
 - LOST Section 5: Jacobians and Singularities [Slides] [Solutions] Video
 
