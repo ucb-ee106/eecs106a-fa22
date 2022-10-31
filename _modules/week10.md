@@ -9,7 +9,7 @@ days:
     description: <br /> Lecture Slides <br /> [Boardwork]  <br />  Reading
 ---
 
-- Lab 8: Building Occupancy Grids with STDR [Lab Doc] Video
+- Lab 8: Building Occupancy Grids with STDR [Lab Doc](../assets/labs/lab8.pdf) Video
 - Homework 9: Control [PDF] [Starter Code]
 - Discussion 10: Control Video
 - LOST Section 6: Dynamics [Slides/Solutions] Video
