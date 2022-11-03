@@ -10,7 +10,8 @@ days:
 ---
 
 - Lab 8: Building Occupancy Grids with STDR [Lab Doc](../assets/labs/lab8.pdf) Video
-- Homework 9: Control [PDF] [Starter Code]
+- [Homework 9: Control](../assets/hw/hw9.zip) 
+  - [PDF](../assets/hw/hw9_assignment.pdf)
 - Discussion 10: Control Video
 - LOST Section 6: Dynamics [Slides/Solutions] Video
 
