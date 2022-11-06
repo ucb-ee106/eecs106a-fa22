@@ -10,6 +10,6 @@ days:
 ---
 
 - Lab Buffer Week
-- No discussion this week!
+- Discussion 11: Midterm Review
 - LOST Section 7: Vision, Velocities, Twists, Singularities, Dynamics, Control [Slides] Video
 
