@@ -13,7 +13,7 @@ days:
 - [Homework 9: Control](../assets/hw/hw9.zip) 
   - [PDF](../assets/hw/hw9_assignment.pdf)
 - Discussion 10: Control [Worksheet](../assets/discussions/D10_Control.pdf) [Boardwork](../assets/discussions/D10_Control_boardwork.pdf) [Solution](../assets/discussions/D10_Control_soln.pdf) [Video](https://youtu.be/Qyy5YsKKyZQ)
-- LOST Section 6: Dynamics [Slides/Solutions] Video
+- LOST Section 7: Dynamics [Notes](../assets/lost/LOST_Dynamics.pdf) [Video](https://youtu.be/VqTuPGxp5EQ)
 
 
 
