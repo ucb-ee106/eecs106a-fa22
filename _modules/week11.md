@@ -11,5 +11,5 @@ days:
 
 - Lab Buffer Week
 - Discussion 11: Midterm Review
-- LOST Section 7: Vision, Velocities, Twists, Singularities, Dynamics, Control [Slides] Video
+- LOST Section 8: Controls [Notes](../assets/lost/LOST_Controls.pdf) [Video](https://youtu.be/HsSZ0eR6CzM)
 
