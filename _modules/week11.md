@@ -10,6 +10,6 @@ days:
 ---
 
 - Lab Buffer Week
-- Discussion 11: Midterm Review
+- Discussion 11: [Midterm Peparation](../assets/discussions/Discussion_11_MT_Prep.pdf)
 - LOST Section 8: Controls [Notes](../assets/lost/LOST_Controls.pdf) [Video](https://youtu.be/HsSZ0eR6CzM)
 
