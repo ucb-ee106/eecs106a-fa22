@@ -6,7 +6,7 @@ days:
     description: <br /> Lecture Slides <br /> [Boardwork]
   - topic: Midterm II Review
     date: 2020-11-10
-    description: <br /> Review Slides <br /> [Boardwork]
+    description: <br /> [Unannotated](../assets/mt/mt2_review_unannotated.pdf) Review Slides <br /> [Boardwork]
 ---
 
 - Lab Buffer Week
