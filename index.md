@@ -5,7 +5,7 @@ nav_order: 0
 description: >-
     Course website for EECS 106/206A Fall 2022
 ---
-### For the Fa23 Site, please go [here](https://ucb-ee106.github.io/eecs106a-fa23site/).
+### For the Fa23 Site, please go [here](https://ucb-ee106.github.io/eecs106a-fa23site/)!
 
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
 # EECS C106A/206A | Introduction to Robotics
